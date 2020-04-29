@@ -12,7 +12,6 @@ extension UINavigationBar {
         appearance().largeTitleTextAttributes = [NSAttributedString.Key.backgroundColor : color,
                                                  NSAttributedString.Key.foregroundColor : UIColor.white]
     }
-    
 }
 
 class NavigationController: UINavigationController {
